@@ -44,7 +44,6 @@ Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão
 - Reduza tempo em tarefas repetitivas; crie planilhas precisas para prazos e análises, elevando produtividade.
 
 ## 2. Estrutura Modular
----
 
 ### Módulos 1-5: Nível Básico
 
@@ -151,3 +150,4 @@ Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão
 ## 5. Conclusão
 
 Certificado de conclusão; feedback final; comunidade interna para continuidade. Referência: SENAC-RS.
+
