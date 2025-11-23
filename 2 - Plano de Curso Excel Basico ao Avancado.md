@@ -1,11 +1,11 @@
 
-# Plano de Curso: Excel Intensivo para Advogados - Do Básico ao Avançado
+# Plano de Curso: Excel Intensivo In Company - Do Básico ao Avançado
 
 **Inspirado e Adaptado do PPP e Plano de Curso "Excel Intensivo: Do Básico ao Avançado" do SENAC-RS**
 
-Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão de básico a intermediário e introdução ao avançado (até Power Query), adaptada ao contexto jurídico. Removemos conteúdos avançados de dashboards, macros/VBA e integrações (originais das sessões 10-12), redistribuindo o material restante (sessões 1-9 originais) para preencher os 12 encontros, sem alterar a carga horária total de 48 horas. A redistribuição expande tópicos com mais profundidade prática, revisões colaborativas e estudos de caso adicionais, garantindo hands-on contínuo e aplicação imediata em cenários jurídicos como controle de prazos e análise de casos.
+Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão de básico a intermediário e introdução ao avançado (até Power Query), adaptada ao contexto In Company. Curso com 12 encontros, e carga horária total de 48 horas.
 
-**Público-Alvo:** 20 advogados com níveis variados (iniciantes a intermediários). Tom acessível, enfatizando eficiência no dia a dia jurídico.
+**Público-Alvo:** 20 alunos com níveis variados (iniciantes a intermediários). Tom acessível, enfatizando eficiência no dia a dia no escritório.
 
 **Duração e Estrutura Geral:** Início em 29/11/2025 (sábado), 12 sessões semanais aos sábados (4 horas cada: 9h às 13h, pausa de 15min às 11h). Total: 48 horas. Formato híbrido (presencial na sala de treinamento do escritório, com opção remota via Teams). Abordagem prática: 30% teoria, 60% exercícios, 10% Q&A.
 
@@ -150,5 +150,6 @@ Redistribuição: Básico expandido para 5 sessões (mais prática em fundamento
 - **Contingência:** Gravações para ausências.
 
 ## 5. Conclusão
+
 
 Certificado de conclusão; feedback final; comunidade interna para continuidade. Referência: SENAC-RS.
