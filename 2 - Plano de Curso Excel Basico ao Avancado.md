@@ -30,11 +30,11 @@ Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão
 
 ## 1. Introdução
 
-### Objetivos Gerais (Adaptados do SENAC-RS)
-- Capacitar na elaboração e gerenciamento de planilhas no Excel para agilizar processos jurídicos, com foco em cálculos e análises até limpeza de dados avançada.
+### Objetivos Gerais
+- Capacitar na elaboração e gerenciamento de planilhas no Excel para agilizar processos, com foco em cálculos e análises até limpeza de dados avançada.
 
 ### Objetivos Específicos
-- Dominar básico a intermediário para tarefas como controle de prazos; introduzir avançado em limpeza de dados para análises jurídicas.
+- Dominar básico a intermediário para tarefas como controle de prazos; introduzir ao nível avançado com limpeza de dados para análises.
 - Aplicar em cenários reais: faturamento, relatórios de casos e conformidade regulatória.
 
 ### Pré-Requisitos
@@ -47,7 +47,7 @@ Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão
 
 Redistribuição: Básico expandido para 5 sessões (mais prática em fundamentos); Intermediário para 4; Avançado para 3 (Power Query com aprofundamento e revisão). Cada módulo: 1h teoria, 2h prática, 1h Q&A.
 
-### Módulos 1-5: Nível Básico (Fundamentos Expandidos para Rotina Jurídica)
+### Módulos 1-5: Nível Básico (Fundamentos Expandidos para Rotina Administrativa)
 
 **Módulo 1: Interface e Entrada de Dados**  
 *Objetivos:* Familiarizar com interface para controle de processos.  
@@ -84,7 +84,7 @@ Redistribuição: Básico expandido para 5 sessões (mais prática em fundamento
 *Tempo:* 1h teoria + 2h prática + 1h Q&A.  
 *Materiais:* Handout de revisão; "Integracao_Basica.xlsx".
 
-### Módulos 6-9: Nível Intermediário (Análises para Decisões Jurídicas)
+### Módulos 6-9: Nível Intermediário (Análises para processos administrativos)
 
 **Módulo 6: Funções Condicionais**  
 *Objetivos:* Automatizar decisões condicionais.  
@@ -151,5 +151,5 @@ Redistribuição: Básico expandido para 5 sessões (mais prática em fundamento
 
 ## 5. Conclusão
 
-
 Certificado de conclusão; feedback final; comunidade interna para continuidade. Referência: SENAC-RS.
+
