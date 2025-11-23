@@ -7,7 +7,7 @@ Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão
 
 **Público-Alvo:** 20 alunos com níveis variados (iniciantes a intermediários). Tom acessível, enfatizando eficiência no dia a dia no escritório.
 
-**Duração e Estrutura Geral:** Início em 29/11/2025 (sábado), 12 sessões semanais aos sábados (4 horas cada: 9h às 13h, pausa de 15min às 11h). Total: 48 horas. Formato híbrido (presencial na sala de treinamento do escritório, com opção remota via Teams). Abordagem prática: 30% teoria, 60% exercícios, 10% Q&A.
+**Duração e Estrutura Geral:** Início em 29/11/2025 (sábado), 12 sessões semanais aos sábados (4 horas cada: 9h às 13h, pausa de 15min às 11h). Total: 48 horas. Formato híbrido (presencial na sala de treinamento do escritório, com opção remota via Teams). Abordagem prática: 30% teoria, 60% exercícios, 10% esclarecimento de dúvidas.
 
 ## Agenda Semanal
 
@@ -26,7 +26,7 @@ Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão
 | 11 | 07/02/2026 | Avançado 2 | 9h-13h | Aplicações Avançadas de Power Query |
 | 12 | 14/02/2026 | Avançado 3 | 9h-13h | Revisão Geral e Projeto Final |
 
-*Notas:* Datas inalteradas, sem feriados impactantes. Contingência via Teams.
+*Notas:* Datas sem feriados impactantes. Contingência via Teams.
 
 ## 1. Introdução
 
@@ -40,101 +40,100 @@ Este plano de curso mantém a essência pedagógica do SENAC-RS, com progressão
 ### Pré-Requisitos
 - Conhecimento básico de informática; acesso a Excel 365.
 
-### Benefícios para Advogados
+### Benefícios
 - Reduza tempo em tarefas repetitivas; crie planilhas precisas para prazos e análises, elevando produtividade.
 
 ## 2. Estrutura Modular
+---
 
-Redistribuição: Básico expandido para 5 sessões (mais prática em fundamentos); Intermediário para 4; Avançado para 3 (Power Query com aprofundamento e revisão). Cada módulo: 1h teoria, 2h prática, 1h Q&A.
-
-### Módulos 1-5: Nível Básico (Fundamentos Expandidos para Rotina Administrativa)
+### Módulos 1-5: Nível Básico
 
 **Módulo 1: Interface e Entrada de Dados**  
 *Objetivos:* Familiarizar com interface para controle de processos.  
 *Tópicos:* Barra de ferramentas, entrada/formatação.  
 *Atividades:* Criar planilha de cadastro de clientes.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout de atalhos; "Cadastro_Cliente.xlsx".
 
 **Módulo 2: Fórmulas Simples e Formatação**  
 *Objetivos:* Aplicar fórmulas para cálculos cotidianos.  
 *Tópicos:* SOMA, MÉDIA; formatação condicional.  
 *Atividades:* Calcular horas faturáveis.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout de fórmulas; "Faturamento_Horas.xlsx".
 
 **Módulo 3: Gráficos e Visualização Básica**  
 *Objetivos:* Visualizar dados para relatórios.  
 *Tópicos:* Gráficos de colunas/linhas.  
 *Atividades:* Gráfico de evolução de prazos.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout de gráficos; "Evolucao_Casos.xlsx".
 
 **Módulo 4: Gerenciamento de Dados Básico**  
 *Objetivos:* Organizar volumes de dados.  
 *Tópicos:* Filtros, congelar painéis.  
 *Atividades:* Filtrar contratos.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout de filtros; "Controle_Contratos.xlsx".
 
 **Módulo 5: Revisão e Aplicações Básicas Expandidas**  
 *Objetivos:* Consolidar básico com cenários integrados.  
 *Tópicos:* Revisão de fórmulas/gráficos; combinação para relatórios simples.  
 *Atividades:* Estudo de caso: planilha integrada de prazos e faturamento.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout de revisão; "Integracao_Basica.xlsx".
 
-### Módulos 6-9: Nível Intermediário (Análises para processos administrativos)
+### Módulos 6-9: Nível Intermediário
 
 **Módulo 6: Funções Condicionais**  
 *Objetivos:* Automatizar decisões condicionais.  
 *Tópicos:* SE, E/OU.  
 *Atividades:* Alertas de prazos.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout lógicas; "Alertas_Prazos.xlsx".
 
 **Módulo 7: Funções de Pesquisa (PROCV/PROCH)**  
 *Objetivos:* Buscar em bases grandes.  
 *Tópicos:* PROC, ÍNDICE/CORRESP.  
 *Atividades:* Pesquisa por CNJ.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout buscas; "Pesquisa_Casos.xlsx".
 
 **Módulo 8: Tabelas Dinâmicas**  
 *Objetivos:* Resumir dados complexos.  
 *Tópicos:* Pivôs e campos calculados.  
 *Atividades:* Resumo de faturamento.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout pivôs; "Performance_Equipe.xlsx".
 
 **Módulo 9: Validação e Formatação Condicional**  
 *Objetivos:* Garantir integridade de dados.  
 *Tópicos:* Validação de listas; regras.  
 *Atividades:* Validação em contratos.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout validação; "Auditoria_Contratos.xlsx".
 
-### Módulos 10-12: Nível Avançado (Limpeza e Análises de Dados Expandidas)
+### Módulos 10-12: Nível Avançado
 
 **Módulo 10: Power Query para Limpeza de Dados**  
 *Objetivos:* Preparar dados brutos.  
 *Tópicos:* Importação/limpeza/mesclagem.  
 *Atividades:* Limpar dados de e-mails.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout Power Query; "Limpeza_Dados.xlsx".
 
 **Módulo 11: Aplicações Avançadas de Power Query**  
 *Objetivos:* Aprofundar em cenários jurídicos complexos.  
 *Tópicos:* Mesclagens avançadas; transformações para análises de casos.  
 *Atividades:* Integração de dados do PJe com estudos de caso expandidos.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout avançado; "Aplicacoes_PowerQuery.xlsx".
 
 **Módulo 12: Revisão Geral e Projeto Final**  
 *Objetivos:* Consolidar todo o curso.  
 *Tópicos:* Revisão integrada; dicas de otimização.  
 *Atividades:* Projeto final: planilha de gerenciamento de casos com Power Query.  
-*Tempo:* 1h teoria + 2h prática + 1h Q&A.  
+*Tempo:* 1h teoria + 2h prática + 1h esclarecimento de dúvidas.  
 *Materiais:* Handout final; "Projeto_Final.xlsx".
 
 ## 3. Avaliação e Acompanhamento
@@ -146,10 +145,9 @@ Redistribuição: Básico expandido para 5 sessões (mais prática em fundamento
 ## 4. Recursos e Logística
 
 - **Materiais:** Excel 365; OneDrive; handouts.  
-- **Facilitador:** Certificado em Excel com foco jurídico.  
+- **Facilitador:** Certificado em Excel Intensivo.  
 - **Contingência:** Gravações para ausências.
 
 ## 5. Conclusão
 
 Certificado de conclusão; feedback final; comunidade interna para continuidade. Referência: SENAC-RS.
-
